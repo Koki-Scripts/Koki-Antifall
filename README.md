@@ -1,4 +1,4 @@
-# Koki-Antifall
+# Koki_Antifall
 
 FiveM script, který vypíná falldamage pro hráče.
 
